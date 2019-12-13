@@ -1,0 +1,100 @@
+c:\users\nozom\documents\visual studio 2013\Projects\3ohda\3ohda\bin\Debug\3ohda.exe.config
+c:\users\nozom\documents\visual studio 2013\Projects\3ohda\3ohda\bin\Debug\3ohda.exe
+c:\users\nozom\documents\visual studio 2013\Projects\3ohda\3ohda\bin\Debug\3ohda.pdb
+c:\users\nozom\documents\visual studio 2013\Projects\3ohda\3ohda\obj\Debug\3ohda.csprojResolveAssemblyReference.cache
+c:\users\nozom\documents\visual studio 2013\Projects\3ohda\3ohda\obj\Debug\_3ohda.Form1.resources
+c:\users\nozom\documents\visual studio 2013\Projects\3ohda\3ohda\obj\Debug\_3ohda.Properties.Resources.resources
+c:\users\nozom\documents\visual studio 2013\Projects\3ohda\3ohda\obj\Debug\3ohda.csproj.GenerateResource.Cache
+c:\users\nozom\documents\visual studio 2013\Projects\3ohda\3ohda\obj\Debug\3ohda.exe
+c:\users\nozom\documents\visual studio 2013\Projects\3ohda\3ohda\obj\Debug\3ohda.pdb
+C:\Users\nozom\Desktop\3ohda\3ohda\obj\Debug\_3ohda.Form3.resources
+C:\Users\nozom\Desktop\3ohda\3ohda\obj\Debug\_3ohda.Form2.resources
+C:\Users\nozom\Desktop\3ohda\3ohda\obj\Debug\_3ohda.Form1.resources
+C:\Users\nozom\Desktop\3ohda\3ohda\obj\Debug\_3ohda.mainframe.resources
+C:\Users\nozom\Desktop\3ohda\3ohda\obj\Debug\_3ohda.Properties.Resources.resources
+C:\Users\nozom\Desktop\3ohda\3ohda\obj\Debug\3ohda.csproj.GenerateResource.Cache
+C:\Users\nozom\Desktop\3ohda\3ohda\bin\Debug\3ohda.exe.config
+C:\Users\nozom\Desktop\3ohda\3ohda\bin\Debug\3ohda.exe
+C:\Users\nozom\Desktop\3ohda\3ohda\bin\Debug\3ohda.pdb
+C:\Users\nozom\Desktop\3ohda\3ohda\obj\Debug\3ohda.exe
+C:\Users\nozom\Desktop\3ohda\3ohda\obj\Debug\3ohda.pdb
+C:\Users\nozom\Desktop\3ohda\3ohda\obj\Debug\3ohda.csprojResolveAssemblyReference.cache
+E:\ehab\3ohdanew\3ohda\3ohda\bin\Debug\3ohda.exe.config
+E:\ehab\3ohdanew\3ohda\3ohda\obj\Debug\3ohda.exe
+E:\ehab\3ohdanew\3ohda\3ohda\obj\Debug\3ohda.pdb
+E:\ehab\3ohdanew\3ohda\3ohda\bin\Debug\3ohda.exe
+E:\ehab\3ohdanew\3ohda\3ohda\bin\Debug\3ohda.pdb
+E:\ehab\3ohdanew\3ohda\3ohda\obj\Debug\3ohda.csprojResolveAssemblyReference.cache
+E:\ehab\3ohdanew\3ohda\3ohda\obj\Debug\_3ohda.Form3.resources
+E:\ehab\3ohdanew\3ohda\3ohda\obj\Debug\_3ohda.Form2.resources
+E:\ehab\3ohdanew\3ohda\3ohda\obj\Debug\_3ohda.Form1.resources
+E:\ehab\3ohdanew\3ohda\3ohda\obj\Debug\_3ohda.mainframe.resources
+E:\ehab\3ohdanew\3ohda\3ohda\obj\Debug\_3ohda.Properties.Resources.resources
+E:\ehab\3ohdanew\3ohda\3ohda\obj\Debug\3ohda.csproj.GenerateResource.Cache
+C:\Users\nozom\Desktop\3ohda-9-4-2019\3ohda\3ohda\bin\Debug\3ohda.exe.config
+C:\Users\nozom\Desktop\3ohda-9-4-2019\3ohda\3ohda\obj\Debug\3ohda.exe
+C:\Users\nozom\Desktop\3ohda-9-4-2019\3ohda\3ohda\obj\Debug\3ohda.pdb
+C:\Users\nozom\Desktop\3ohda-9-4-2019\3ohda\3ohda\bin\Debug\3ohda.exe
+C:\Users\nozom\Desktop\3ohda-9-4-2019\3ohda\3ohda\bin\Debug\3ohda.pdb
+C:\Users\nozom\Desktop\3ohda-9-4-2019\3ohda\3ohda\obj\Debug\3ohda.csprojResolveAssemblyReference.cache
+C:\Users\nozom\Desktop\3ohda-9-4-2019\3ohda\3ohda\obj\Debug\_3ohda.Form3.resources
+C:\Users\nozom\Desktop\3ohda-9-4-2019\3ohda\3ohda\obj\Debug\_3ohda.Form2.resources
+C:\Users\nozom\Desktop\3ohda-9-4-2019\3ohda\3ohda\obj\Debug\_3ohda.Form1.resources
+C:\Users\nozom\Desktop\3ohda-9-4-2019\3ohda\3ohda\obj\Debug\_3ohda.mainframe.resources
+C:\Users\nozom\Desktop\3ohda-9-4-2019\3ohda\3ohda\obj\Debug\_3ohda.Properties.Resources.resources
+C:\Users\nozom\Desktop\3ohda-9-4-2019\3ohda\3ohda\obj\Debug\3ohda.csproj.GenerateResource.Cache
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\bin\Debug\3ohda.exe.config
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\bin\Debug\3ohda.exe
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\bin\Debug\3ohda.pdb
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\obj\Debug\3ohda.csprojResolveAssemblyReference.cache
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\obj\Debug\_3ohda.Form3.resources
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\obj\Debug\_3ohda.Form2.resources
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\obj\Debug\_3ohda.Form1.resources
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\obj\Debug\_3ohda.Form4.resources
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\obj\Debug\_3ohda.mainframe.resources
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\obj\Debug\_3ohda.Properties.Resources.resources
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\obj\Debug\3ohda.csproj.GenerateResource.Cache
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\obj\Debug\3ohda.exe
+C:\Users\NozomProg\Desktop\3ohda shon\3ohda\obj\Debug\3ohda.pdb
+D:\projects\3ohda shon\3ohda\bin\Debug\3ohda.exe.config
+D:\projects\3ohda shon\3ohda\bin\Debug\3ohda.exe
+D:\projects\3ohda shon\3ohda\bin\Debug\3ohda.pdb
+D:\projects\3ohda shon\3ohda\obj\Debug\_3ohda.Reports.resources
+D:\projects\3ohda shon\3ohda\obj\Debug\_3ohda.Queries.resources
+D:\projects\3ohda shon\3ohda\obj\Debug\_3ohda.AddData.resources
+D:\projects\3ohda shon\3ohda\obj\Debug\_3ohda.mainframe.resources
+D:\projects\3ohda shon\3ohda\obj\Debug\_3ohda.Properties.Resources.resources
+D:\projects\3ohda shon\3ohda\obj\Debug\3ohda.csproj.GenerateResource.Cache
+D:\projects\3ohda shon\3ohda\obj\Debug\RdlCompile.cache
+D:\projects\3ohda shon\3ohda\obj\Debug\RdlCompile.compiled
+D:\projects\3ohda shon\3ohda\obj\Debug\3ohda.exe
+D:\projects\3ohda shon\3ohda\obj\Debug\3ohda.pdb
+D:\projects\3ohda shon\3ohda\obj\Debug\3ohda.csprojResolveAssemblyReference.cache
+J:\faculty\3ohda shon\3ohda\bin\Debug\3ohda.exe.config
+J:\faculty\3ohda shon\3ohda\obj\Debug\3ohda.exe
+J:\faculty\3ohda shon\3ohda\obj\Debug\3ohda.pdb
+J:\faculty\3ohda shon\3ohda\bin\Debug\3ohda.exe
+J:\faculty\3ohda shon\3ohda\bin\Debug\3ohda.pdb
+J:\faculty\3ohda shon\3ohda\obj\Debug\3ohda.csprojResolveAssemblyReference.cache
+J:\faculty\3ohda shon\3ohda\obj\Debug\_3ohda.Reports.resources
+J:\faculty\3ohda shon\3ohda\obj\Debug\_3ohda.Queries.resources
+J:\faculty\3ohda shon\3ohda\obj\Debug\_3ohda.AddData.resources
+J:\faculty\3ohda shon\3ohda\obj\Debug\_3ohda.mainframe.resources
+J:\faculty\3ohda shon\3ohda\obj\Debug\_3ohda.Properties.Resources.resources
+J:\faculty\3ohda shon\3ohda\obj\Debug\3ohda.csproj.GenerateResource.Cache
+J:\faculty\3ohda shon\3ohda\obj\Debug\RdlCompile.cache
+J:\faculty\3ohda shon\3ohda\obj\Debug\RdlCompile.compiled
+J:\faculty\projects\3ohda shon\3ohda\bin\Debug\3ohda.exe.config
+J:\faculty\projects\3ohda shon\3ohda\obj\Debug\3ohda.exe
+J:\faculty\projects\3ohda shon\3ohda\obj\Debug\3ohda.pdb
+J:\faculty\projects\3ohda shon\3ohda\bin\Debug\3ohda.exe
+J:\faculty\projects\3ohda shon\3ohda\bin\Debug\3ohda.pdb
+J:\faculty\projects\3ohda shon\3ohda\obj\Debug\3ohda.csprojResolveAssemblyReference.cache
+J:\faculty\projects\3ohda shon\3ohda\obj\Debug\_3ohda.Reports.resources
+J:\faculty\projects\3ohda shon\3ohda\obj\Debug\_3ohda.Queries.resources
+J:\faculty\projects\3ohda shon\3ohda\obj\Debug\_3ohda.AddData.resources
+J:\faculty\projects\3ohda shon\3ohda\obj\Debug\_3ohda.mainframe.resources
+J:\faculty\projects\3ohda shon\3ohda\obj\Debug\_3ohda.Properties.Resources.resources
+J:\faculty\projects\3ohda shon\3ohda\obj\Debug\3ohda.csproj.GenerateResource.Cache
+J:\faculty\projects\3ohda shon\3ohda\obj\Debug\RdlCompile.cache
+J:\faculty\projects\3ohda shon\3ohda\obj\Debug\RdlCompile.compiled
